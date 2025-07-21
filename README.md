@@ -9,7 +9,7 @@ This app uses GenAI (LLaMA3 via LangChain + Groq API) to auto-generate personali
 
 
 
-🚀 Features
+# 🚀 Features
 🔗 Paste any job posting URL
 
 🧠 AI-powered JD parsing
@@ -23,7 +23,7 @@ This app uses GenAI (LLaMA3 via LangChain + Groq API) to auto-generate personali
 
 
 
-🧰 Tech Stack
+# 🧰 Tech Stack
 Frontend: Streamlit
 
 Backend: Python, LangChain
@@ -38,7 +38,7 @@ DB: SQLite3 for portfolio vectors
 
 
 
-⚙️ How It Works
+# ⚙️ How It Works
 User Input: Paste a job URL
 
 Scraping & Parsing: Extract job role and skills
@@ -51,7 +51,7 @@ Email Writing: AI writes tailored cold email
 
 
 
-🛠️ Setup
+# 🛠️ Setup
 bash
 Copy
 Edit
@@ -84,7 +84,7 @@ Hi, I’m Mohan from AtliQ... (AI-generated)
 
 
 
-💡 Why This?
+# 💡 Why This?
 This project saves hours for sales teams by using LLMs to craft job-specific outreach — boosting engagement and conversion in B2B sales.
 
 
